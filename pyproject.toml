@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "MathPrimes"
-version = "1.0.0"
+version = "1.0.1"
 description = "Well documented, super fast, prime number methods using mathematical algorithms."
 authors = ["GrandMoff100 <nlarsen23.student@gmail.com>"]
 license = "MIT"
